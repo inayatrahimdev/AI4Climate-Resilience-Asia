@@ -31,8 +31,6 @@ This project targets high-impact use cases in agricultural monitoring, hydrologi
 - **Model Deployment (Optional)**: Paddle Lite, FastDeploy  
 - **Data Sources**: ESA Sentinel-2, NASA Landsat 8/9, MODIS, CHIRPS, Google Earth Engine Export
 
-*Note: This project **does not use OpenCV or YOLO** to ensure custom interpretability and geospatial-first AI integrity.*
-
 ---
 
 ## Datasets
