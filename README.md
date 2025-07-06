@@ -1,4 +1,4 @@
-# AI4Climate-Resilience-Asia
+# AI4Climate
 
 **AI4Climate-Resilience-Asia** is an open, research-grade framework designed to support climate adaptation and sustainability efforts in vulnerable rural communities across Asia. This system leverages high-resolution satellite data and deep geospatial learning techniques to detect agricultural stress, predict flooding events, and monitor water resource patterns. It is aligned with the innovation goals of the Asian Development Bank and its development partners.
 
